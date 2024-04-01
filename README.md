@@ -1,3 +1,3 @@
 # GFGCodeTraining
 This repo contains the solution of various coding problems published on GFG website in a sequential manner.
-\n Author - Abhishek Shukla
+<hr><br>Author - Abhishek Shukla
